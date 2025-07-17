@@ -1,52 +1,53 @@
 [
   {
-    question: "Who is known as the Father of the Nation?",
-    options: ["Jawaharlal Nehru", "Subhash Chandra Bose", "Mahatma Gandhi", "B. R. Ambedkar"],
-    answer: "Mahatma Gandhi"
+    "question": "Who is known as the Father of the Nation?",
+    "options": ["Jawaharlal Nehru", "Subhash Chandra Bose", "Mahatma Gandhi", "B. R. Ambedkar"],
+    "answer": "Mahatma Gandhi"
   },
   {
-    question: "In which year did India gain independence?",
-    options: ["1945", "1947", "1950", "1952"],
-    answer: "1947"
+    "question": "In which year did India gain independence?",
+    "options": ["1945", "1947", "1950", "1952"],
+    "answer": "1947"
   },
   {
-    question: "Who was the first President of India?",
-    options: ["Rajendra Prasad", "S. Radhakrishnan", "Zakir Husain", "APJ Abdul Kalam"],
-    answer: "Rajendra Prasad"
+    "question": "Who was the first President of India?",
+    "options": ["Rajendra Prasad", "S. Radhakrishnan", "Zakir Husain", "APJ Abdul Kalam"],
+    "answer": "Rajendra Prasad"
   },
   {
-    question: "Who wrote the Indian national anthem?",
-    options: ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Lala Lajpat Rai"],
-    answer: "Rabindranath Tagore"
+    "question": "Who wrote the Indian national anthem?",
+    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Lala Lajpat Rai"],
+    "answer": "Rabindranath Tagore"
   },
   {
-    question: "The Battle of Plassey was fought in which year?",
-    options: ["1757", "1857", "1782", "1805"],
-    answer: "1757"
+    "question": "The Battle of Plassey was fought in which year?",
+    "options": ["1757", "1857", "1782", "1805"],
+    "answer": "1757"
   },
   {
-    question: "Who was the first Prime Minister of India?",
-    options: ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Rajendra Prasad"],
-    answer: "Jawaharlal Nehru"
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Rajendra Prasad"],
+    "answer": "Jawaharlal Nehru"
   },
   {
-    question: "Dandi March was related to?",
-    options: ["Non-cooperation Movement", "Salt Satyagraha", "Quit India Movement", "Civil Disobedience Movement"],
-    answer: "Salt Satyagraha"
+    "question": "Dandi March was related to?",
+    "options": ["Non-cooperation Movement", "Salt Satyagraha", "Quit India Movement", "Civil Disobedience Movement"],
+    "answer": "Salt Satyagraha"
   },
   {
-    question: "Who founded the Indian National Congress?",
-    options: ["Bal Gangadhar Tilak", "Dadabhai Naoroji", "A. O. Hume", "Gopal Krishna Gokhale"],
-    answer: "A. O. Hume"
+    "question": "Who founded the Indian National Congress?",
+    "options": ["Bal Gangadhar Tilak", "Dadabhai Naoroji", "A. O. Hume", "Gopal Krishna Gokhale"],
+    "answer": "A. O. Hume"
   },
   {
-    question: "Who was the Iron Man of India?",
-    options: ["B. R. Ambedkar", "Sardar Vallabhbhai Patel", "Subhash Chandra Bose", "Lal Bahadur Shastri"],
-    answer: "Sardar Vallabhbhai Patel"
+    "question": "Who was the Iron Man of India?",
+    "options": ["B. R. Ambedkar", "Sardar Vallabhbhai Patel", "Subhash Chandra Bose", "Lal Bahadur Shastri"],
+    "answer": "Sardar Vallabhbhai Patel"
   },
   {
-    question: "What was the main cause of the Revolt of 1857?",
-    options: ["Partition of Bengal", "Jallianwala Bagh Massacre", "Use of greased cartridges", "Rowlatt Act"],
-    answer: "Use of greased cartridges"
+    "question": "What was the main cause of the Revolt of 1857?",
+    "options": ["Partition of Bengal", "Jallianwala Bagh Massacre", "Use of greased cartridges", "Rowlatt Act"],
+    "answer": "Use of greased cartridges"
   }
 ]
+

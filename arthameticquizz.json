@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is 25 + 37?",
+    "options": ["62", "52", "60", "58"],
+    "answer": "62"
+  },
+  {
+    "question": "If a car travels at 60 km/h, how far will it go in 2.5 hours?",
+    "options": ["120 km", "100 km", "150 km", "180 km"],
+    "answer": "150 km"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+    "options": ["18", "24", "32", "30"],
+    "answer": "32"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["30", "35", "25", "40"],
+    "answer": "30"
+  },
+  {
+    "question": "Simplify: (3 + 2) × 5",
+    "options": ["25", "20", "30", "15"],
+    "answer": "25"
+  },
+  {
+    "question": "If x = 3, what is the value of 2x² + 1?",
+    "options": ["17", "19", "20", "21"],
+    "answer": "19"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "What is 144 ÷ 12?",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "If you buy 3 items at ₹50 each, how much is the total cost?",
+    "options": ["₹100", "₹150", "₹120", "₹130"],
+    "answer": "₹150"
+  },
+  {
+    "question": "Find the average of 10, 20, and 30.",
+    "options": ["15", "20", "25", "30"],
+    "answer": "20"
+  }
+]

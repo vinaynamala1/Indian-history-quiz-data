@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Choose the correct synonym for 'Happy'.",
+    "options": ["Sad", "Angry", "Joyful", "Fearful"],
+    "answer": "Joyful"
+  },
+  {
+    "question": "Choose the correct antonym for 'Cold'.",
+    "options": ["Cool", "Hot", "Warm", "Chill"],
+    "answer": "Hot"
+  },
+  {
+    "question": "Fill in the blank: She ____ to the market every day.",
+    "options": ["go", "going", "went", "goes"],
+    "answer": "goes"
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["Run", "Quickly", "Happiness", "Jump"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "What is the past tense of 'eat'?",
+    "options": ["eats", "ate", "eated", "eaten"],
+    "answer": "ate"
+  },
+  {
+    "question": "Identify the adjective: The tall boy ran fast.",
+    "options": ["boy", "tall", "ran", "fast"],
+    "answer": "tall"
+  },
+  {
+    "question": "Choose the correctly spelled word:",
+    "options": ["Enviroment", "Environment", "Envaironment", "Enviorment"],
+    "answer": "Environment"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": [
+      "He don't like tea.",
+      "He doesn't likes tea.",
+      "He doesn't like tea.",
+      "He not like tea."
+    ],
+    "answer": "He doesn't like tea."
+  },
+  {
+    "question": "Choose the plural form of 'Child':",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "answer": "Children"
+  },
+  {
+    "question": "Which word is a verb?",
+    "options": ["Beautiful", "Dance", "Quick", "Blue"],
+    "answer": "Dance"
+  }
+]

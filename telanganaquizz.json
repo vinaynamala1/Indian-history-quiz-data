@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Who was the first Chief Minister of Telangana?",
+    "options": ["KCR", "N. Chandrababu Naidu", "YSR", "Rosaiah"],
+    "answer": "KCR"
+  },
+  {
+    "question": "When was Telangana formed?",
+    "options": ["2012", "2014", "2016", "2018"],
+    "answer": "2014"
+  },
+  {
+    "question": "Capital of Telangana?",
+    "options": ["Warangal", "Karimnagar", "Hyderabad", "Nizamabad"],
+    "answer": "Hyderabad"
+  },
+  {
+    "question": "Which river flows through Telangana?",
+    "options": ["Ganga", "Godavari", "Yamuna", "Krishna"],
+    "answer": "Godavari"
+  },
+  {
+    "question": "Golconda Fort is in which city?",
+    "options": ["Nizamabad", "Hyderabad", "Adilabad", "Warangal"],
+    "answer": "Hyderabad"
+  },
+  {
+    "question": "Bathukamma is a festival of?",
+    "options": ["Tamil Nadu", "Kerala", "Telangana", "Andhra Pradesh"],
+    "answer": "Telangana"
+  },
+  {
+    "question": "Who was the Nizam of Hyderabad?",
+    "options": ["Tipu Sultan", "Aurangzeb", "Mir Osman Ali Khan", "Shivaji"],
+    "answer": "Mir Osman Ali Khan"
+  },
+  {
+    "question": "Which district is known for coal mining?",
+    "options": ["Adilabad", "Khammam", "Karimnagar", "Singareni"],
+    "answer": "Singareni"
+  },
+  {
+    "question": "Warangal is famous for?",
+    "options": ["Beaches", "Temples", "Hill stations", "Lakes"],
+    "answer": "Temples"
+  },
+  {
+    "question": "Official language of Telangana?",
+    "options": ["Kannada", "Telugu", "Hindi", "Urdu"],
+    "answer": "Telugu"
+  }
+]
